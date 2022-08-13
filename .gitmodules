@@ -1,0 +1,3 @@
+[submodule "external/var-8"]
+	path = external/var-8
+	url = https://github.com/Elias-Graf/var-8
